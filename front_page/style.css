@@ -18,6 +18,14 @@ header #page-title {
     font-size: 80px;
 }
 
+.description-img {
+    width:400px;
+}
+
+.project-description {
+    clear:left;
+}
+
 header #subtitle {
     color:indianred;
     font-size: 40px;
