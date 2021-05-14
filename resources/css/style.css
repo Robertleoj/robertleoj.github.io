@@ -1,0 +1,60 @@
+/* Global */
+html {
+    font-family:Arial;
+    background-color: #381a35;
+    color: white;
+    text-align: center;
+}
+
+/* Header */
+header {
+    background-image: url(../images/head_backgr.jpg);
+    text-align: center;
+    padding: 0;
+    margin:0;
+    border-radius: 30px;
+}
+
+
+header #page-title {
+    color: purple;
+    font-size: 80px;
+    font-family: 'Lobster', cursive;
+    font-weight: normal;
+}
+
+header #subtitle {
+    color:indianred;
+    font-size: 40px;
+    margin: auto;
+}
+
+/* Main */
+
+.project a {
+    color: lightblue;
+}
+.project .description-img {
+    width:300px;
+    float:right;
+    border-radius: 30px;
+}
+
+.project .project-description {
+    clear:left;
+    text-align:left;
+    font-size: 25px;
+}
+
+
+section .project-title {
+    color: white;
+    font-family: 'Lobster', cursive;
+    font-weight: normal;
+}
+
+
+/* Footer */
+footer {
+    background-color: d
+}
