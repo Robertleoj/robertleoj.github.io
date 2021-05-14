@@ -1,0 +1,25 @@
+html {
+    font-family:Courier New;
+}
+
+header {
+    background-image: url(./images/head_backgr.jpg);
+    text-align: center;
+    padding: 0;
+    margin:0;
+}
+
+footer {
+    background-color: d
+}
+
+header #page-title {
+    color: purple;
+    font-size: 80px;
+}
+
+header #subtitle {
+    color:indianred;
+    font-size: 40px;
+    margin: auto;
+}
